@@ -1,0 +1,38 @@
+_repo: The-Flame_60601
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ranous, Dora Knowlton
+    aliases:
+    - Ranous, Dora Knowlton Thompson
+    - Knowlton, Dora Ranous
+    birthdate: 1859
+    deathdate: 1916
+    gutenberg_agent_id: '5761'
+    url: http://www.gutenberg.org/2009/agents/5761
+creator:
+  author:
+    agent_name: D'Annunzio, Gabriele
+    aliases:
+    - Montenevoso, Gabriele d’Annunzio, principe di
+    - Annunzio, Gabriele d'
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '9030'
+    url: http://www.gutenberg.org/2009/agents/9030
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gabriele_D'Annunzio
+    - https://it.wikipedia.org/wiki/Gabriele_D%27Annunzio
+description: ''
+gutenberg_issued: '2019-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Flame
+url: http://www.gutenberg.org/ebooks/60601
