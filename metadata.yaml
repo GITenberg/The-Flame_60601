@@ -1,5 +1,5 @@
 _repo: The-Flame_60601
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Ranous, Dora Knowlton
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1916
     gutenberg_agent_id: '5761'
     url: http://www.gutenberg.org/2009/agents/5761
+covers:
+- cover_type: archival
+  image_path: 60601-h/images/cover.jpg
 creator:
   author:
     agent_name: D'Annunzio, Gabriele
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gabriele_D'Annunzio
     - https://it.wikipedia.org/wiki/Gabriele_D%27Annunzio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60601#The-Flame
 gutenberg_issued: '2019-10-31'
 gutenberg_type: Text
 identifiers:
